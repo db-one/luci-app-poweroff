@@ -8,24 +8,24 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.2.4\n"
-"Last-Translator: ystartgo <https://cloudsgo.org/>\n"
+"Last-Translator: eSirPlayground <https://www.youtube.com/c/esirplayground>\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"Language: zh_tw\n"
+"Language: zh_CN\n"
 
 msgid "PowerOff"
-msgstr "關機"
+msgstr "关机"
 
 msgid "Shut down your router"
-msgstr "關閉您的路由器"
+msgstr "关闭设备"
 
 msgid "Perform PowerOff"
-msgstr "執行關機"
+msgstr "执行关机~"
 
 msgid "Warning: There are unsaved changes that will get lost on shutting down!"
-msgstr "警告：沒存檔的更動在關機的時候都會移失！別驚訝，要麼存檔，要麼放棄關機"
+msgstr "警告：没保存的改动在关机的时候都会丢失！别惊讶，要么保存，要么放弃"
 
 msgid "Waiting for device..."
-msgstr "設備努力中，要等一下..."
+msgstr "正在关机..."
 
 msgid "Router is shutting down..."
-msgstr "正在關機，等等就會自動關..."
+msgstr "路由器正在关闭..."
